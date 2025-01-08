@@ -1,5 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author" : "Suraj Yadav",
+	"description" : "Project that Does Something awesome",
+	"keywords": [ "descriptive", "related", "words" ,"freecodecamp"],
+	"license": "MIT",
+	"version" : "1.2.0",
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
